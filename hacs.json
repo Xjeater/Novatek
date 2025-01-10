@@ -1,0 +1,11 @@
+{
+  "name": "Novatek EM-129",
+  "render_readme": true,
+  "content_in_root": true,
+  "hide_default_branch": true,
+  "country": [],
+  "homeassistant": "2024.1.0",
+  "domains": ["energy"],
+  "homeassistant": "0.116.0",
+  "iot_class": ["Energy Meter"]
+}
